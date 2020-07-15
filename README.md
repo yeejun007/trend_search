@@ -1,5 +1,5 @@
 # trend_search
-#### 매년 특정 시기에(가을, 여름 등..) 어떤 제품군이, 더 나아가 어떤 제품이 가장 잘 팔릴까?
+#### 매년 특정 시기에(가을, 여름 등..) 어떤 제품군이, 더 나아가 어떤 제품이 가장 잘 팔릴까? (ongoing..)
 <br/>
 <br/>
 
@@ -12,6 +12,5 @@
 python, naver developer api, beautifulsoup, selenium
 <br/>
 
-### `Procedure`
-ongoing..
+### `Project Details`
 <br/>
